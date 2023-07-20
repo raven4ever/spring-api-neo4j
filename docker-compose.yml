@@ -7,4 +7,13 @@ services:
       - 7474:7474
       - 7687:7687
     environment:
-      - NEO4J_AUTH=neo4j/M3gaS3cretValue 
+      - NEO4J_AUTH=neo4j/M3gaS3cretValue
+
+  heisenberg:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+    depends_on:
+      - neo4j
