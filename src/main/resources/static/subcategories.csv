@@ -1,0 +1,24 @@
+subject,description,imageSrc,displayOrder,categoryName
+Machine Learning,Machine Learning description,,1,AI & ML
+Data Lake Analytics,Data Lake Analytics description,,1,Analytics
+Stream Processing,Stream Processing description,,2,Analytics
+Sonar,Sonar description,,1,Approval
+Gitlab,Gitlab description,,1,CICD
+Jenkins,Jenkins description,,2,CICD
+Container,Container description,,1,Compute
+Virtual Machine,Virtual Machine description,,2,Compute
+Autoscaling,Autoscaling description,,3,Compute
+Function as a Service,FAAS,,4,Compute
+Kubernetes,Kubernetes description,,5,Compute
+Workflow Orchestration,Workflow Orchestration description,,6,Compute
+AMI,AMI,,1,Configuration Management
+Ansible,Ansible,,2,Configuration Management
+Package Repos,Package Repos,,3,Configuration Management
+Parameter Store,Parameter Store,,4,Configuration Management
+User Data,User Data,,5,Configuration Management
+Approval Process,Approval Process description,,1,Customer Journey
+Cloud Access,Cloud Access description,,2,Customer Journey
+Deploy Code,Deploy Code description,,3,Customer Journey
+hRef AWS Landing Zone,AWS Landing Zone,,4,Customer Journey
+Pipelines,Pipelines,,5,Customer Journey
+Service Transition,Service Transition,,6,Customer Journey

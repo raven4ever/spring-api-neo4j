@@ -1,0 +1,7 @@
+name,description,imageSrc
+AWS,Amazon Web Services,aws.png
+Azure,Microsoft Azure,azure.png
+GCP,Google Cloud Platform,gcp.png
+Datadog,Datadog,datadog.png
+Open Source,General Purpose pseudo-provider,open-source.png
+Kong,Kong API Gateway,kong.png

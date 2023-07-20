@@ -1,0 +1,20 @@
+name,description,imageSrc,displayOrder
+AI & ML,Anything with AI & ML,ai-ml.png,1
+Customer Journey,Customer Journey,customer-journey.png,2
+Developer Journey,Developer Journey,developer-journey.png,3
+Training,Training,training.png,4
+Approval,The approval process,approval.png,5
+Analytics,Services for analytics,analytics.png,6
+Solution Patterns,Solution Patterns,solution-patterns.png,7
+CICD,Continuous Integration and Continuous Delivery,cicd.png,8
+Compute,Compute services,compute.png,9
+Configuration Management, Configuration Management,config-mgmt.png,10
+Data,Data services,database.png,11
+Frontend,Frontend,frontend.png,12
+Messaging,Messaging,messaging.png,13
+Monitoring & Logging,Monitoring & Logging,monitoring.png,14
+Networking,Networking,networking.png,15
+Security & Identity,Security & Identity,security.png,16
+Data Platform,Data Platform,data-platform.png,17
+Storage,Storage,storage.png,18
+

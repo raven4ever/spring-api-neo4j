@@ -1,0 +1,9 @@
+name,description,colour
+adopt,Proven and recommended for use in apropriate situations,#AAFF9D
+assess,POC planned or in progress,#E1E1E1
+hold,Consider alternatives first,#69B9EA
+invest,Strategic choice,#AAFF9D
+mandate,Must use technologies,#46429B
+prohibited,Reviewed and rejected,#F49697
+sunset,Avoid and/or make a plan to move off this technology,#F49697
+trial,"Passed POC, evaluating in production setup",#FCFEAB
